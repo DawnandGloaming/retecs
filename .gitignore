@@ -6,3 +6,4 @@ RESULTS/*.csv
 *.pyc
 TESTDATA/*.csv
 DATA/*
+venv/*
