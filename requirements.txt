@@ -1,0 +1,5 @@
+scikit-learn==0.18.1  # 0.19 or later might work, but not tested
+matplotlib>=1.5
+numpy>=1.11
+pandas>=0.19
+seaborn>=0.7

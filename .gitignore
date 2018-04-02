@@ -1,0 +1,8 @@
+RESULTS/*.csv
+*.exe
+*.sav
+.idea/
+*.*~
+*.pyc
+TESTDATA/*.csv
+DATA/*
