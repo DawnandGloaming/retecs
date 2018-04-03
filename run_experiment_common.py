@@ -6,7 +6,7 @@ import glob
 import os
 import matplotlib as mpl
 
-USE_LATEX = False
+USE_LATEX = True
 
 if USE_LATEX:
     mpl.use('pgf')
